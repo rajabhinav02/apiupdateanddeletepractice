@@ -1,0 +1,117 @@
+2021-07-14 21:48:18,688 : INFO : <module> : DB Connected
+2021-07-14 21:48:19,031 : INFO : <module> : DB Connected
+2021-07-14 21:48:19,828 : INFO : <module> : DB Connected
+2021-07-14 21:48:20,093 : INFO : AddBook : <Response [200]>
+2021-07-14 21:48:20,406 : INFO : <module> : DB Connected
+2021-07-14 21:48:20,752 : INFO : <module> : DB Connected
+2021-07-14 21:48:21,002 : INFO : <module> : DB Connected
+2021-07-14 21:48:21,174 : INFO : AddBook : <Response [200]>
+2021-07-14 21:49:43,105 : INFO : <module> : DB Connected
+2021-07-14 21:49:43,230 : INFO : <module> : DB Connected
+2021-07-14 21:49:43,574 : INFO : <module> : DB Connected
+2021-07-14 21:49:43,793 : INFO : AddBook : <Response [200]>
+2021-07-14 21:49:43,980 : INFO : <module> : DB Connected
+2021-07-14 21:49:44,136 : INFO : <module> : DB Connected
+2021-07-14 21:49:44,495 : INFO : <module> : DB Connected
+2021-07-14 21:49:44,636 : INFO : AddBook : <Response [200]>
+2021-07-14 21:52:37,073 : INFO : <module> : DB Connected
+2021-07-14 21:52:37,214 : INFO : <module> : DB Connected
+2021-07-14 21:52:37,651 : INFO : <module> : DB Connected
+2021-07-14 21:52:37,917 : INFO : AddBook : <Response [200]>
+2021-07-14 21:52:38,058 : INFO : <module> : DB Connected
+2021-07-14 21:52:38,073 : INFO : <module> : DB Connected
+2021-07-14 21:52:38,339 : INFO : <module> : DB Connected
+2021-07-14 21:52:38,464 : INFO : AddBook : <Response [200]>
+2021-07-14 21:55:53,669 : INFO : <module> : DB Connected
+2021-07-14 21:55:53,732 : INFO : <module> : DB Connected
+2021-07-14 21:55:53,997 : INFO : <module> : DB Connected
+2021-07-14 21:55:54,200 : INFO : AddBook : <Response [200]>
+2021-07-14 21:56:53,179 : INFO : <module> : DB Connected
+2021-07-14 21:56:53,210 : INFO : <module> : DB Connected
+2021-07-14 21:56:53,632 : INFO : <module> : DB Connected
+2021-07-14 21:56:53,757 : INFO : AddBook : <Response [200]>
+2021-07-14 21:57:35,474 : INFO : <module> : DB Connected
+2021-07-14 21:57:35,490 : INFO : <module> : DB Connected
+2021-07-14 21:57:35,630 : INFO : <module> : DB Connected
+2021-07-14 21:57:35,755 : INFO : AddBook : <Response [200]>
+2021-07-14 21:59:50,162 : INFO : <module> : DB Connected
+2021-07-14 21:59:50,178 : INFO : <module> : DB Connected
+2021-07-14 21:59:50,303 : INFO : <module> : DB Connected
+2021-07-14 21:59:50,491 : INFO : AddBook : <Response [200]>
+2021-07-14 22:01:23,411 : INFO : <module> : DB Connected
+2021-07-14 22:01:23,505 : INFO : <module> : DB Connected
+2021-07-14 22:01:24,114 : INFO : <module> : DB Connected
+2021-07-14 22:01:24,250 : INFO : AddBook : <Response [200]>
+2021-07-14 22:02:29,550 : INFO : <module> : DB Connected
+2021-07-14 22:02:29,566 : INFO : <module> : DB Connected
+2021-07-14 22:02:29,800 : INFO : <module> : DB Connected
+2021-07-14 22:02:29,941 : INFO : AddBook : <Response [200]>
+2021-07-14 22:03:49,920 : INFO : <module> : DB Connected
+2021-07-14 22:03:49,982 : INFO : <module> : DB Connected
+2021-07-14 22:03:50,138 : INFO : <module> : DB Connected
+2021-07-14 22:03:50,279 : INFO : AddBook : <Response [200]>
+2021-07-14 22:06:05,843 : INFO : <module> : DB Connected
+2021-07-14 22:06:05,858 : INFO : <module> : DB Connected
+2021-07-14 22:06:06,046 : INFO : <module> : DB Connected
+2021-07-14 22:06:06,171 : INFO : AddBook : <Response [200]>
+2021-07-14 22:08:02,928 : INFO : <module> : DB Connected
+2021-07-14 22:08:02,975 : INFO : <module> : DB Connected
+2021-07-14 22:08:03,115 : INFO : <module> : DB Connected
+2021-07-14 22:08:03,272 : INFO : AddBook : <Response [200]>
+2021-07-14 22:09:50,404 : INFO : <module> : DB Connected
+2021-07-14 22:09:50,450 : INFO : <module> : DB Connected
+2021-07-14 22:09:50,732 : INFO : <module> : DB Connected
+2021-07-14 22:09:50,966 : INFO : AddBook : <Response [200]>
+2021-07-14 22:11:39,606 : INFO : <module> : DB Connected
+2021-07-14 22:11:39,637 : INFO : <module> : DB Connected
+2021-07-14 22:11:39,793 : INFO : <module> : DB Connected
+2021-07-14 22:11:39,918 : INFO : AddBook : <Response [200]>
+2021-07-14 22:16:05,485 : INFO : <module> : DB Connected
+2021-07-14 22:16:05,501 : INFO : <module> : DB Connected
+2021-07-14 22:16:05,766 : INFO : <module> : DB Connected
+2021-07-14 22:16:05,907 : INFO : AddBook : <Response [200]>
+2021-07-14 22:16:05,907 : INFO : AddBook : {'Msg': 'successfully added', 'ID': 'bnid34112'}
+2021-07-14 22:16:05,907 : INFO : ResultStatus : AddBook working fine
+2021-07-14 22:16:05,907 : INFO : ResultStatus : test_addbook Passed
+2021-07-14 22:16:05,922 : INFO : <module> : DB Connected
+2021-07-14 22:16:05,938 : INFO : <module> : DB Connected
+2021-07-14 22:16:06,407 : INFO : <module> : DB Connected
+2021-07-14 22:16:06,547 : INFO : AddBook : <Response [200]>
+2021-07-14 22:16:06,673 : INFO : AddBook : <Response [200]>
+2021-07-14 22:16:06,673 : INFO : ResultStatus : DeleteBook working fine
+2021-07-14 22:16:06,688 : INFO : ResultStatus : test_deletebook Passed
+2021-07-14 22:17:11,612 : INFO : <module> : DB Connected
+2021-07-14 22:17:11,784 : INFO : AddBook : <Response [200]>
+2021-07-14 22:17:11,784 : INFO : AddBook : {'Msg': 'successfully added', 'ID': 'bnid34113'}
+2021-07-14 22:17:11,784 : INFO : ResultStatus : AddBook working fine
+2021-07-14 22:17:11,784 : INFO : ResultStatus : test_addbook Passed
+2021-07-14 22:17:11,831 : INFO : <module> : DB Connected
+2021-07-14 22:17:11,971 : INFO : AddBook : <Response [404]>
+2021-07-14 22:18:55,095 : INFO : <module> : DB Connected
+2021-07-14 22:18:55,110 : INFO : <module> : DB Connected
+2021-07-14 22:18:55,220 : INFO : <module> : DB Connected
+2021-07-14 22:18:55,360 : INFO : AddBook : <Response [200]>
+2021-07-14 22:18:55,360 : INFO : AddBook : {'Msg': 'successfully added', 'ID': 'bnid34114'}
+2021-07-14 22:18:55,360 : INFO : ResultStatus : AddBook working fine
+2021-07-14 22:18:55,360 : INFO : ResultStatus : test_addbook Passed
+2021-07-14 22:18:55,407 : INFO : <module> : DB Connected
+2021-07-14 22:18:55,423 : INFO : <module> : DB Connected
+2021-07-14 22:18:55,516 : INFO : <module> : DB Connected
+2021-07-14 22:18:55,642 : INFO : AddBook : <Response [200]>
+2021-07-14 22:18:55,845 : INFO : AddBook : <Response [200]>
+2021-07-14 22:18:55,845 : INFO : ResultStatus : DeleteBook working fine
+2021-07-14 22:18:55,845 : INFO : ResultStatus : test_deletebook Passed
+2021-07-14 22:19:44,950 : INFO : <module> : DB Connected
+2021-07-14 22:19:44,997 : INFO : <module> : DB Connected
+2021-07-14 22:19:45,184 : INFO : <module> : DB Connected
+2021-07-14 22:19:45,325 : INFO : AddBook : <Response [200]>
+2021-07-14 22:19:45,325 : INFO : AddBook : {'Msg': 'successfully added', 'ID': 'bnid34116'}
+2021-07-14 22:19:45,325 : INFO : ResultStatus : AddBook working fine
+2021-07-14 22:19:45,325 : INFO : ResultStatus : test_addbook Passed
+2021-07-14 22:19:45,356 : INFO : <module> : DB Connected
+2021-07-14 22:19:45,387 : INFO : <module> : DB Connected
+2021-07-14 22:19:45,465 : INFO : <module> : DB Connected
+2021-07-14 22:19:45,606 : INFO : AddBook : <Response [200]>
+2021-07-14 22:19:45,731 : INFO : AddBook : <Response [200]>
+2021-07-14 22:19:45,731 : INFO : ResultStatus : DeleteBook working fine
+2021-07-14 22:19:45,731 : INFO : ResultStatus : test_deletebook Passed

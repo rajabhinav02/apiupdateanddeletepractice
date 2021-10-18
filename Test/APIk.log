@@ -1,0 +1,107 @@
+2021-07-14 22:19:55,357 : INFO : <module> : DB Connected
+2021-07-14 22:19:55,372 : INFO : <module> : DB Connected
+2021-07-14 22:19:55,544 : INFO : <module> : DB Connected
+2021-07-14 22:19:55,685 : INFO : AddBook : <Response [200]>
+2021-07-14 22:19:55,685 : INFO : AddBook : {'Msg': 'successfully added', 'ID': 'bnid34118'}
+2021-07-14 22:19:55,685 : INFO : ResultStatus : AddBook working fine
+2021-07-14 22:19:55,685 : INFO : ResultStatus : test_addbook Passed
+2021-07-14 22:19:55,716 : INFO : <module> : DB Connected
+2021-07-14 22:19:55,747 : INFO : <module> : DB Connected
+2021-07-14 22:19:55,825 : INFO : <module> : DB Connected
+2021-07-14 22:19:55,982 : INFO : AddBook : <Response [200]>
+2021-07-14 22:19:56,107 : INFO : AddBook : <Response [200]>
+2021-07-14 22:19:56,107 : INFO : ResultStatus : DeleteBook working fine
+2021-07-14 22:19:56,107 : INFO : ResultStatus : test_deletebook Passed
+2021-07-14 22:24:15,160 : INFO : <module> : DB Connected
+2021-07-14 22:24:15,222 : INFO : <module> : DB Connected
+2021-07-14 22:24:15,472 : INFO : <module> : DB Connected
+2021-07-14 22:24:15,613 : INFO : AddBook : <Response [200]>
+2021-07-14 22:24:15,613 : INFO : AddBook : {'Msg': 'successfully added', 'ID': 'bnid34120'}
+2021-07-14 22:24:15,613 : INFO : ResultStatus : AddBook working fine
+2021-07-14 22:24:15,613 : INFO : ResultStatus : test_addbook Passed
+2021-07-14 22:24:15,660 : INFO : <module> : DB Connected
+2021-07-14 22:24:15,753 : INFO : <module> : DB Connected
+2021-07-14 22:24:15,941 : INFO : <module> : DB Connected
+2021-07-14 22:24:16,066 : INFO : AddBook : <Response [200]>
+2021-07-14 22:24:16,191 : INFO : AddBook : <Response [200]>
+2021-07-14 22:24:16,191 : INFO : ResultStatus : DeleteBook working fine
+2021-07-14 22:24:16,191 : INFO : ResultStatus : test_deletebook Passed
+2021-07-14 22:24:29,691 : INFO : <module> : DB Connected
+2021-07-14 22:24:29,831 : INFO : AddBook : <Response [200]>
+2021-07-14 22:24:29,831 : INFO : AddBook : {'Msg': 'successfully added', 'ID': 'bnid34121'}
+2021-07-14 22:24:29,831 : INFO : ResultStatus : AddBook working fine
+2021-07-14 22:24:29,831 : INFO : ResultStatus : test_addbook Passed
+2021-07-14 22:24:29,862 : INFO : <module> : DB Connected
+2021-07-14 22:24:29,894 : INFO : <module> : DB Connected
+2021-07-14 22:24:30,034 : INFO : <module> : DB Connected
+2021-07-14 22:24:30,178 : INFO : AddBook : <Response [200]>
+2021-07-14 22:24:30,304 : INFO : AddBook : <Response [200]>
+2021-07-14 22:24:30,304 : INFO : ResultStatus : DeleteBook working fine
+2021-07-14 22:24:30,304 : INFO : ResultStatus : test_deletebook Passed
+2021-07-14 22:25:05,484 : INFO : <module> : DB Connected
+2021-07-14 22:25:05,609 : INFO : AddBook : <Response [200]>
+2021-07-14 22:25:05,609 : INFO : AddBook : {'Msg': 'successfully added', 'ID': 'bnid34122'}
+2021-07-14 22:25:05,609 : INFO : ResultStatus : AddBook working fine
+2021-07-14 22:25:05,609 : INFO : ResultStatus : test_addbook Passed
+2021-07-14 22:25:05,625 : INFO : <module> : DB Connected
+2021-07-14 22:25:05,750 : INFO : AddBook : <Response [404]>
+2021-07-14 22:25:18,019 : INFO : <module> : DB Connected
+2021-07-14 22:25:18,035 : INFO : <module> : DB Connected
+2021-07-14 22:25:18,160 : INFO : <module> : DB Connected
+2021-07-14 22:25:18,316 : INFO : AddBook : <Response [200]>
+2021-07-14 22:25:18,316 : INFO : AddBook : {'Msg': 'successfully added', 'ID': 'bnid34123'}
+2021-07-14 22:25:18,316 : INFO : ResultStatus : AddBook working fine
+2021-07-14 22:25:18,316 : INFO : ResultStatus : test_addbook Passed
+2021-07-14 22:25:18,347 : INFO : <module> : DB Connected
+2021-07-14 22:25:18,363 : INFO : <module> : DB Connected
+2021-07-14 22:25:18,472 : INFO : <module> : DB Connected
+2021-07-14 22:25:18,597 : INFO : AddBook : <Response [200]>
+2021-07-14 22:25:18,739 : INFO : AddBook : <Response [200]>
+2021-07-14 22:25:18,740 : INFO : ResultStatus : DeleteBook working fine
+2021-07-14 22:25:18,740 : INFO : ResultStatus : test_deletebook Passed
+2021-07-14 22:25:33,880 : INFO : <module> : DB Connected
+2021-07-14 22:25:33,896 : INFO : <module> : DB Connected
+2021-07-14 22:25:34,036 : INFO : <module> : DB Connected
+2021-07-14 22:25:34,177 : INFO : AddBook : <Response [200]>
+2021-07-14 22:25:34,177 : INFO : AddBook : {'Msg': 'successfully added', 'ID': 'bnid34125'}
+2021-07-14 22:25:34,177 : INFO : ResultStatus : AddBook working fine
+2021-07-14 22:25:34,177 : INFO : ResultStatus : test_addbook Passed
+2021-07-14 22:25:34,208 : INFO : <module> : DB Connected
+2021-07-14 22:25:34,333 : INFO : AddBook : <Response [404]>
+2021-07-14 22:29:34,373 : INFO : <module> : DB Connected
+2021-07-14 22:29:34,373 : INFO : <module> : DB Connected
+2021-07-14 22:29:34,483 : INFO : <module> : DB Connected
+2021-07-14 22:29:34,623 : INFO : AddBook : <Response [200]>
+2021-07-14 22:29:34,623 : INFO : AddBook : {'Msg': 'successfully added', 'ID': 'bnid34126'}
+2021-07-14 22:29:34,623 : INFO : ResultStatus : AddBook working fine
+2021-07-14 22:29:34,623 : INFO : ResultStatus : test_addbook Passed
+2021-07-14 22:29:34,686 : INFO : <module> : DB Connected
+2021-07-14 22:29:34,701 : INFO : <module> : DB Connected
+2021-07-14 22:29:34,889 : INFO : <module> : DB Connected
+2021-07-14 22:29:35,014 : INFO : AddBook : <Response [200]>
+2021-07-14 22:29:35,186 : INFO : AddBook : <Response [200]>
+2021-07-14 22:29:35,186 : INFO : ResultStatus : DeleteBook working fine
+2021-07-14 22:29:35,186 : INFO : ResultStatus : test_deletebook Passed
+2021-07-14 22:33:27,610 : INFO : <module> : DB Connected
+2021-07-14 22:33:27,625 : INFO : <module> : DB Connected
+2021-07-14 22:33:27,766 : INFO : <module> : DB Connected
+2021-07-14 22:33:27,954 : INFO : AddBook : <Response [200]>
+2021-07-14 22:33:27,954 : INFO : AddBook : {'Msg': 'successfully added', 'ID': 'bnid34128'}
+2021-07-14 22:33:27,954 : INFO : ResultStatus : AddBook working fine
+2021-07-14 22:33:27,954 : INFO : ResultStatus : test_addbook Passed
+2021-07-14 22:33:28,031 : INFO : <module> : DB Connected
+2021-07-14 22:33:28,188 : INFO : AddBook : <Response [404]>
+2021-07-14 22:34:40,098 : INFO : <module> : DB Connected
+2021-07-14 22:34:40,161 : INFO : <module> : DB Connected
+2021-07-14 22:34:40,270 : INFO : <module> : DB Connected
+2021-07-14 22:34:40,411 : INFO : AddBook : <Response [200]>
+2021-07-14 22:34:40,411 : INFO : AddBook : {'Msg': 'successfully added', 'ID': 'bnid34129'}
+2021-07-14 22:34:40,411 : INFO : ResultStatus : AddBook working fine
+2021-07-14 22:34:40,411 : INFO : ResultStatus : test_addbook Passed
+2021-07-14 22:34:40,473 : INFO : <module> : DB Connected
+2021-07-14 22:34:40,489 : INFO : <module> : DB Connected
+2021-07-14 22:34:40,613 : INFO : <module> : DB Connected
+2021-07-14 22:34:40,739 : INFO : AddBook : <Response [200]>
+2021-07-14 22:34:40,864 : INFO : AddBook : <Response [200]>
+2021-07-14 22:34:40,864 : INFO : ResultStatus : DeleteBook working fine
+2021-07-14 22:34:40,864 : INFO : ResultStatus : test_deletebook Passed
